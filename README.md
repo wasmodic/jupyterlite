@@ -1,8 +1,15 @@
 # JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://wasmodic.github.io/jupyterlite/)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+JupyterLite deployed as a static site to GitHub Pages.
+
+## Setup 
+
+1. Click the `Use this template` button
+2. Configure pages to deploy from actions
+
+![](settings-screenshot.png)
 
 ## ✨ Try it in your browser ✨
 
